@@ -20,8 +20,8 @@ uint16_t preAngleServo[]= {141,124,128,135,135,7};
 
 double myXYZ[]= {186,0,264}; // I will save endpoint coordinates here.
 
-const char* ssid = "Suresh";
-const char* password = "18041974";
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASS";
 
 ESP8266WebServer server(80);
 
